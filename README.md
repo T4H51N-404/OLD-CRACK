@@ -23,3 +23,5 @@ git clone https://github.com/TAHSIN-404/OLD-CRACK
 cd OLD-CRACK
 
 python3 OLD-CRACK.py 
+
+#all idz can't log in some idz you can log in 
