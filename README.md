@@ -18,7 +18,7 @@ pkg install git
 
 pip install rich
 
-git clone https://github.com/TAHSIN-404/OLD-CRACK
+git clone https://github.com/TAHSIN-404/OLD-CRACK.git
 
 cd OLD-CRACK
 
