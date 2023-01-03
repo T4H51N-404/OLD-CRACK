@@ -24,7 +24,7 @@ git clone https://github.com/TAHSIN-404/OLD-CRACK.git
 
 cd OLD-CRACK
 
-python3 OLD-CRACK.py 
+python oldcrack.py 
 
 
 
