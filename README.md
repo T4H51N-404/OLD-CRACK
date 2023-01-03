@@ -1,12 +1,12 @@
 # OLD-CRACK
 
-rm -rf OLD-CRACK 
+# rm -rf OLD-CRACK 
 
-pkg update
+# pkg update
 
-pkg upgrade
+# pkg upgrade
 
-pkg install python
+# pkg install python
 
 pip install requests
 
