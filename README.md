@@ -24,4 +24,5 @@ cd OLD-CRACK
 
 python3 OLD-CRACK.py 
 
-#all idz can't log in some idz you can log in 
+
+# 🔥
