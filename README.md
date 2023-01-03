@@ -1,6 +1,6 @@
 # OLD-CRACK
 
-rm -rf OLD-CRACK 
+ 
 
 pkg update
 
@@ -18,6 +18,8 @@ pkg install git
 
 pip install rich
 
+rm -rf OLD-CRACK
+
 git clone https://github.com/TAHSIN-404/OLD-CRACK.git
 
 cd OLD-CRACK
@@ -25,4 +27,4 @@ cd OLD-CRACK
 python3 OLD-CRACK.py 
 
 
-# 🔥
+
