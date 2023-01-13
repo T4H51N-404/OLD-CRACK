@@ -1,6 +1,6 @@
 # OLD-CRACK
 
- 
+```python
 
 pkg update
 
