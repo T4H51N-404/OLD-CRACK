@@ -4,7 +4,7 @@
 
 pkg update
 
-. pkg upgrade
+•pkg upgrade
 
 pkg install python
 
